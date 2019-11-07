@@ -16,3 +16,8 @@ function johnLennonFacts(facts) {
   }
   return newFacts.reverse()
 }
+
+function iLoveTheBeatles(N) {
+  let output = [];
+  do
+}
