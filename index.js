@@ -14,5 +14,5 @@ function johnLennonFacts(facts) {
     newFacts.push(`${facts[facts.length - 1]}!!!`)
     facts.pop()
   }
-  return newFacts
+  return newFacts.reverse()
 }
