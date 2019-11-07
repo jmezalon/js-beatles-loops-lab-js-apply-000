@@ -19,5 +19,8 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(N) {
   let output = [];
-  do
+  do {
+    output.push("I love the Beatles!")
+  }
+  while
 }
